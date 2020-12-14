@@ -1,0 +1,5 @@
+﻿  lab8c.cpp
+C:\Users\alt\source\repos\lab8var9\lab8c\lab8c.cpp(18,13): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\alt\source\repos\lab8var9\lab8c\lab8c.cpp(12,6): warning C4101: mas: неиспользованная локальная переменная
+C:\Users\alt\source\repos\lab8var9\lab8c\lab8c.cpp(12,14): warning C4101: dop: неиспользованная локальная переменная
+  lab8c.vcxproj -> C:\Users\alt\source\repos\lab8var9\Debug\lab8c.exe
